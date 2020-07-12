@@ -1,0 +1,15 @@
+
+storedata - question 2.1
+lowrankrep - question 2.2
+eigenfacedetector - question 2.3
+sup --> After adding supplemental data file..
+Recongnition code
+
+t2 -- > script where eigen faces , variance plots etc.. are plotted...
+
+
+Thanking you 
+
+With regards
+
+sai
